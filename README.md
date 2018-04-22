@@ -1,8 +1,13 @@
 #Scotish Gaelic auto-glosser
+
 #Yuan-Lu Chen 4/2018. Tucson, Arizona
+
 #cheny@email.arizona.edu
+
 #Compatible with python2 and python3
+
 #assuming utf-8 encoding
+
 
 Citation:
 
