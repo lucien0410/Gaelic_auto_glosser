@@ -1,3 +1,7 @@
+# Google Sites Import/Export Tool
+
+This is an import/export tool for
+
 #Scotish Gaelic auto-glosser
 
 #Yuan-Lu Chen 4/2018. Tucson, Arizona
