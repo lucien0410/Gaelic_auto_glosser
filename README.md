@@ -1,19 +1,11 @@
-# Google Sites Import/Export Tool
-
-This is an import/export tool for
-
-#Scotish Gaelic auto-glosser
-
-#Yuan-Lu Chen 4/2018. Tucson, Arizona
-
-#cheny@email.arizona.edu
-
-#Compatible with python2 and python3
-
-#assuming utf-8 encoding
+# Scotish Gaelic auto-glosser
+Yuan-Lu Chen 4/2018. Tucson, Arizona
+cheny@email.arizona.edu
+Compatible with python2 and python3
+assuming utf-8 encoding
 
 
-Citation:
+## Citation:
 
 Chen, Yuan-Lu, Andrew Carnie, Michael Hammond, Colleen Patton. (2018). Developing An Auto-Glosser for Scottish Gaelic Using a Corpus of Interlinear Glossed. The 10th Celtic Linguistics Conference. Maynooth, Ireland. September 4–5.
 
