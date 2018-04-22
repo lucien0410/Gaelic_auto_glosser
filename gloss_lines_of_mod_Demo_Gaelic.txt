@@ -1,0 +1,100 @@
+christine	unknown	unknown	etc	unknown	unknown	unknown	unknown	muriel	fisher
+
+CP	unknown	unknown	last.night
+MF	unknown
+CP	when	q.comp	unknown	unknown
+MF	neg	be.dep.pres	cop	at.1s	must	comp	pst	unknown	3sm	unknown	q.comp	be.pst	1p	outside	and	what
+CP	oh	unknown	be.cond	comp	unknown	comp	3sm	det	night	q.comp	unknown	cop.q	3sm	det	night	unknown
+MF	unknown	unknown	cop.3sg	unknown	cop	perhaps	comp	pst	return.pst	3sm	from	unknown
+CP	oh	yes	unknown
+MF	be.pres	1s.emph	of.the	q.comp	unknown	comp	pst	return.pst	3sm	from	unknown	and	comp	be.dep.pst	knowledge	at.3sm	comp	be.dep.pst	2s.emph	unknown	in.3sm	q.comp	unknown	and	be.cond	3sm	prog	ask.vn	q.comp	be.fut	in	3sm.poss	unknown
+CP	be.cond	unknown
+MF	like	q.comp	say.cond	unknown	in	unknown	unknown	unknown	unknown	unknown	det	unknown	so	um	unknown	1p	det	unknown	3sm	unknown	1p	what	be	at.3sm	to	say.vn
+CP	cop	perhaps	q.neg	be.fut	3sm	unknown	be.pres	1s.emph	think.vn	comp	be.fut	3sm	too	unknown	be.pst	2s.emph	q.comp	unknown	to.1s	unknown	unknown	unknown	3sm	do.vn	what	unknown
+MF	oh	yes	unknown	well	unknown	to.3sm	be.aux	at	work.vn	at	to	****	what	be.pst	3sm	make.vn	when	q.comp	be.pst	3sm	unknown	unknown	2s	know	to.3sm	det.pl	school.pl	unknown
+CP	yes	unknown	school.pl
+MF	unknown
+CP	although	be	3sm	make.vn	comp	yet
+MF	neg	be.dep.pres	unknown	3sm	dem.med	det	unknown	unknown
+CP	oh	really	unknown
+MF	uh	huh	stop.vn	3sm	take.cond	say.pst	3sm	q.neg	could	to.3sm	be.dep.fut	look.vn	cmpr	behind.dat	q.comp	mother	and	unknown
+CP	be.pres	comp	right	be.pres	3sm	perf	tran	be.aux	perf	unknown	work	from.the	q.comp	unknown	make.vn	unknown
+MF	say.pst	3sm	comp	to.1s	unknown	be.dep.pst	unknown	in.3sm	det	unknown	comp	be.dep.pst	3sm	make.vn	unknown	something	unknown	cop	perhaps	to.3sm	or	three	works	small	from	wage.pl	good	adv	enough	for	det	sort	work	unknown	unknown	det	sort	work	comp	also
+CP	be.pres	unknown
+MF	q.neg	take.cond	2s.emph
+CP	take.cond	be	memory	unknown	unknown	unknown	unknown	det	unknown
+MF	det	3sf.emph	q.comp	be.rel	unknown
+CP	be.pst	3sf.emph	prog	tell.vn	unknown	q.neg	be.dep	knowledge	at.2s	like	q.comp	be	in	voice	at.3sf	be.pres	something	in	unknown	at.3sf	cop	likeable	with.1s.emph	det	thing	q.comp	unknown	but	be.pres	unknown	neg	able	to.3sf	if	unknown	3sf	on.3sf	det	go.vn	with	det	work	other	at.3sf	q.comp	be.fut	q.comp	unknown	unknown	cop	thing.pl	be.pres	3sf	3sf.poss	go.vn	tran	?	?	voice
+MF	hush
+CP	unknown	3sf	voice	unknown	cop.3sg	comp	tran	unknown	q.comp	voice	like	comp	unknown	comp	pst	leave.pst	unknown	comp	unknown
+MF	be.dep	comp	be.dep.pres	3sf	at	work.vn	unknown	neg	be.dep.pres	1s.emph	familiar	on.3sf	q	be.dep	3sf	at	work.vn	on	det	television	cop	thing.pl	like	comp
+CP	uh	huh	unknown	child.gen.pl	make.vn	unknown	unknown	be.dep	knowledge	at.2s	unknown	unknown	unknown	unknown	unknown	to	unknown	q.comp	unknown	2s	in.3sm	det	way	unknown	be.dep	knowledge	at.2s	be	comp	unknown	to	unknown	unknown	unknown	unknown	on	det	unknown	unknown	at.3sf
+MF	det	be.fut	2s.emph	unknown	on	det	unknown	q.comp	be.pres	comp
+CP	neg	be.dep.fut	det	unknown	cop	again	be.fut	1s	in.3sm	det	unknown	be.pres	memory	at.1s	tran	be.aux	over	in.3sm	det	unknown	at	unknown	mairead	and	be.pst	1s	unknown	det	unknown	and	come.pst	3sm	on	unknown	unknown	em	unknown	child.gen.pl	cop	q.comp	morning	and	be.pst	unknown	unknown	on	det	voice	at.3sm	be.pst	3sm	unknown	unknown	unknown	unknown	be.pst	comp	unknown	unknown	unknown	unknown
+MF	unknown	to.1s	cop.q	3sm	unknown	q.comp	unknown	det	unknown
+CP	neg	unknown	at.1s
+MF	take.cond	cop.3sg.pres	unknown	q.comp	be.pres	on	one.f	of	det.pl	sheep.pl	at.1s.emph
+CP	cop.q	3sm	unknown	unknown
+MF	det	sheep.pl	small	unknown	q.comp	be.rel	unknown	on	det	unknown
+CP	det	3sf
+MF	uh	huh
+CP	what	like	q.comp	be	3p	unknown	on	det	unknown
+MF	well	be.fut	person.pl	unknown	picture.pl	of.3p	q.comp	every	year
+CP	why
+MF	for	comp	be.fut	3p	unknown	on	unknown	at.1s	unknown
+CP	oh	be.fut	be.fut	be.fut	be.fut
+MF	get.pst	1s	unknown	det	year	get.pst	1s	unknown	well	be	three	unknown	at.1s	on.3sm	tran	unknown	from	one	woman	with	picture.pl	where	q	give.pst.dep	3p	out	3p	go.pst	1p	to	unknown	be.pst	1p	at	drink.vn	coffee	cop	2s	know	prog	eat.vn	cake	cop	stuff	like	comp	and	put.pst	3sf	about	unknown	on	twenty	picture	to.1s	with	det	animal.pl	in	det	unknown	big	prog	drink.vn	sit.vn	in.3sm	det	unknown	many	person.pl	around	um	unknown	big	unknown	det	hat	unknown
+CP	who	unknown	det	unknown
+MF	det	unknown	unknown
+CP	oh	unknown	unknown
+MF	and	unknown	unknown	on	fench	in.3sm	det	unknown	and	unknown	when	q.comp	be.pst	1p	at	unknown	2s	know	em
+CP	unknown	coffee
+MF	yes	neg	pst	unknown	1s.emph	yet	and	be.pst	3p	all	inside	on	unknown	be.pst	1s.emph	than	1s.poss	sit.vn	in.3sm	q.comp	unknown	unknown	2s	know	unknown	q.comp	say.rel	1p	sugar	in.3sm	unknown	etc	etc	and	unknown	be.pst	unknown	unknown	put.pst	somebody	unknown	on	cup	unknown	unknown	or	something	and	unknown	3p	picture	and	neg	pst	unknown	1s.emph	yet	but	must	comp	be.dep.pst	knowledge	at.3p	all	on
+CP	uh
+MF	unknown	unknown	unknown	unknown	unknown	det	unknown	unknown	cop	unknown	det	next	day	give.pst	3sf	in
+CP	unknown
+MF	unknown	unknown	3p	unknown	and	what	do.pst	1p	det	what	well	unknown
+CP	unknown	be.pres	knowledge	at.1s
+MF	unknown	put.pst	3sf	to	det	person.pl	cop	unknown	other	unknown	week	other	unknown	creation.pl	be.pst	woman	at.1s	prog	work.vn	in	unknown	unknown	also
+CP	oh	be.pst
+MF	put.pst	3sf	unknown	to.1s	unknown	cop	perhaps	week	det	after	to.3sf	return.vn	home
+CP	what	about	around
+MF	with	det	animal.pl
+CP	oh	yes
+MF	well	cop.3sg	unknown	unknown	unknown	unknown	thing	unknown	2s	to.the	unknown	and	see.pres	2s	3sm
+CP	neg	be.dep	1s	too	good	on	unknown
+MF	neg	be.dep.pres	or	1s.emph
+CP	unknown
+MF	unknown	unknown
+CP	who	from	q.comp	get.pst	2s	det	unknown	q.comp	be.pres	comp	when	q.comp	begin.pst	3sm
+MF	well	begin.pst	3sm	unknown	begin.pst	3sm	in	3p.poss	barn	big	with	mairead	woman	unknown	big	tall	and	be.pst	unknown	at.1s.emph	be.pres	memory-(at.)1.s	very	good	cop.3sg	unknown	unknown	q.comp	unknown	and	be.pst	1p	in.3sm	det	unknown	unknown	det.s.f	down	to??	unknown	and	be.pst	to.1s	at.1s	full	be.pst	det	unknown	full	and	be.pst	det	woman	q.comp	be.pres	dem.prox	unknown	q.neg	be.dep.pst	gaelic	to	enough	at.3sf	for	3sm.gen	be.aux	in.3sm	det	unknown	unknown	so	unknown	home	unknown	unknown	unknown	unknown	unknown	unknown	unknown	or	say.pst	is.emph	unknown	pound.pl	unknown	unknown	unknown	unknown	unknown	unknown	unknown	2s	so	unknown	begin.pst	det	unknown	and	unknown	thing	about	around	det	woman	prox	be.dep	knowledge	at.2s	be.pst	back	sore	at.3sf
+CP	unknown
+MF	and	neg	could	to.3sf	sit.vn	so	be.pst	3sf	big	and	be.pst	3sf	comp	stand.vn	for	det	unknown	look.pst	1s	out.of.3sm	q.comp	behind.dat	and	give	1s	unknown	when	q.comp	be.pst	1p	unknown	something	be.cond.1s	prog.3sm.poss	put.pst	down	to	extent	to.3sf.emph	and	at	end	det	week	be.pst	3sf	after	tran	way	clean	and	return.pst	3sf	det	next	year	and	be.pst	3sf	in	unknown	at.1s	and	cop.neg.q	go.dep.pst	3sf	3sf.poss	portree	one	day	and	give	3sf	home	unknown	small	unknown	det	bitch	fergus	q.comp	give.pst	1s	on	unknown	take.cond	be.pst	3sm	hard	det	word	dem.med	q.comp	unknown	to.3p
+CP	unknown
+MF	unknown	unknown	fergus	unknown
+CP	uh	unknown
+MF	with	q.comp	unknown	unknown	so	put.pst	1s.emph	unknown	q.comp	be.pst	dem.dist	q.comp	unknown	on	unknown	and	neg	say.cond.1s	voice	about	around	neg	be.dep.pst	name	on.3sm	unknown	well	cop.3sg.pres	fergus	q.comp	give.pst	1s	on	but	unknown	neg	be.dep.pst	unknown	unknown	unknown	det	sit.vn	on	unknown	and	unknown	oh	creation.pl	begin.pst	det	unknown	dem.dist	unknown	q.comp	unknown	unknown	inside	to	det	room	and	neg	be.dep.cond	story	on	unknown	unknown	cop	be.cond.1s	unknown	and	be.cond	3p	prog.3sm.poss	1s.poss	unknown	q.comp	look.vn	unknown	unknown	unknown	unknown	unknown	2s	know	so	unknown	parent.pl	em	be.pres	1s	think.vn	comp	be.dep.pst	fergus	with	self	long	unknown	be.pst	woman	frenchman	q.comp	be.cond	unknown	and	cop.3sg	fergus	det	unknown	at.3sf	so	carry.cond	3sf	with.3sf	3sm
+CP	q.comp	lover
+MF	q.comp	lover
+CP	cop.q	3sm	fergus	unknown	oh	cop.3sg	fergus	unknown
+MF	unknown
+CP	be.pst	lover	at.3sm
+MF	be.pst	lover	at.3sm	det	woman	frenchman	q.comp	be.pst	dem.prox	unknown	frenchman
+CP	unknown	unknown	oh	be	memory	at.1s	on.3sf
+MF	e.
+CP	e.	unknown	unknown	be.pst	3sf	so	nice
+MF	so	come.cond	e.	inside	in	unknown	unknown	oh	go.pst	1s.emph	in	fergus	out	go.pst	1p	outside	for	unknown	lovely	and	be.pst	unknown	red	at.1p	and	unknown	unknown	unknown	so	unknown	unknown	fergus	unknown	det	next	year	cmpr	behind.dat	comp	return.pst	mairead	and	cop.neg.q	to	buy.pst	someone	unknown
+CP	oh	unknown
+MF	with	unknown	unknown	q.comp	give.pst	1s	on	be.pst	fergus	and	unknown
+CP	neg	see	2s	many	to.3p.emph	in.3sm	island	skye
+MF	oh	neg	see	neg	see	so	unknown	begin.pst	unknown	oh	creation.pl	parent.pl	one	unknown	be.pst	one	class	in.3sm	and	be.pst	3p	be.pst	3p	unknown	piece	paper	under	det	animal.pl	and	be.pst	3p	unknown	conversation	unknown	inside	and	be.pst	one.m	of.3p	q.comp	unknown	something	and	one	morning	come.pst	1s	in	and
+CP	cop.q	3sm	3p.emph	prt	be.pst	unknown	det	pieces	paper	in.3sm
+MF	cop	3sm	unknown	or	or	3p.emph	prt	be.pst	prog.3sm.poss	do.vn	so	one	morning	come.pst	1s	in	and	be.pst	be.pst	3p	det	sit.vn	and	be.pst	unknown	unknown	unknown	be.pres	det	hunger	on.1s	unknown	be.pst	1p	to	unknown	unknown	unknown	unknown	unknown	two	two	two	be.pres	det	hunger	on.1s	q	and	when	q.comp	return.pst
+1s	at	time	coffee	neg	be.dep.pst	story	on	fergus	but	be.pst	unknown	unknown	must	comp	give.pst	3p	cmpr	q.comp	unknown	unknown	to	side	unknown	and	something	write.va
+CP	unknown
+MF	cop	unknown	be.pst	unknown	about	around	where	be.dep.pres	fergus
+CP	uh	huh
+MF	unknown	return.pst	1s	at	time	unknown	and	cop.neg.q	be.dep.pst	be.pst	unknown	det	sit.vn	on	unknown	and	neg	be.dep.pst	story	on	unknown	unknown	but	be.pst	pieces	small	unknown	and	unknown	on	leave.vn	on	unknown	and	unknown	be.pst	dem.dist	good	cop.3sg	like.pst	to.1s	be.pst	det	hunger	unknown	for	unknown	and	unknown	2s	know	unknown	unknown	unknown	and	so	unknown	sort	of	unknown
+CP	oh	be.pst	dem.dist	unknown	unknown	need	big	q.comp	be.pst	dem.dist
+MF	unknown	unknown	begin.pst	3sm	unknown	give.vn	animal.pl	to.1s	cop.3sg	unknown	and	mairead	unknown	give.pst	mairead	unknown	over
+CP	be.pres	memory-(at.)1.s	on	3sm.emph	q.comp	be.fut	over

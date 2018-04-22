@@ -1,0 +1,600 @@
+<sen 0>
+<GD>	Christine	Primrose	Portugal	etc	…	2012	??	Talking	to	Muriel	Fisher
+<GLOSS>	christine	unknown	unknown	etc	unknown	unknown	unknown	unknown	muriel	fisher
+<EN>
+</sen 0>
+
+<sen 1>
+<GD>	
+<GLOSS>	
+<EN>
+</sen 1>
+
+<sen 2>
+<GD>	CP	Dh'fhònaig	Alec	a-raoir	..
+<GLOSS>	CP	unknown	unknown	last.night
+<EN>
+</sen 2>
+
+<sen 3>
+<GD>	MF	mumble
+<GLOSS>	MF	unknown
+<EN>
+</sen 3>
+
+<sen 4>
+<GD>	CP	Cuin	a	dh'fhònaig	Alec	?
+<GLOSS>	CP	when	q.comp	unknown	unknown
+<EN>
+</sen 4>
+
+<sen 5>
+<GD>	MF	Chan	eil	's	a'm.	Feumaidh	gun	do	dh'fhònaig	e	fhad's	a	bha	sinn	a-muigh	and	dè.
+<GLOSS>	MF	neg	be.dep.pres	cop	at.1s	must	comp	pst	unknown	3sm	unknown	q.comp	be.pst	1p	outside	and	what
+<EN>
+</sen 5>
+
+<sen 6>
+<GD>	CP	Oh	seadh	–	bhiodh	sin	a'ciallachadh	gun	e	an	oidhche	a	bh'ann	..an	e	'n	oidhche	bh'ann	?
+<GLOSS>	CP	oh	unknown	be.cond	comp	unknown	comp	3sm	det	night	q.comp	unknown	cop.q	3sm	det	night	unknown
+<EN>
+</sen 6>
+
+<sen 7>
+<GD>	MF	Emmm	…	'se	…	's	docha	gun	do	thill	e	bho	Portugal	.
+<GLOSS>	MF	unknown	unknown	cop.3sg	unknown	cop	perhaps	comp	pst	return.pst	3sm	from	unknown
+<EN>
+</sen 7>
+
+<sen 8>
+<GD>	CP	Oh	aye	…
+<GLOSS>	CP	oh	yes	unknown
+<EN>
+</sen 8>
+
+<sen 9>
+<GD>	MF	Tha	mise	dhen	a	'bheachd	gun	do	thill	e	bho	Portugal	agus	gu	robh	fios	aige	gu	robh	thusa	bhos	ann	a	sheo	..	agus	bhiodh	e	ag	iarraidh	a	bhith	anns	a	'mhix	!
+<GLOSS>	MF	be.pres	1s.emph	of.the	q.comp	unknown	comp	pst	return.pst	3sm	from	unknown	and	comp	be.dep.pst	knowledge	at.3sm	comp	be.dep.pst	2s.emph	unknown	in.3sm	q.comp	unknown	and	be.cond	3sm	prog	ask.vn	q.comp	be.fut	in	3sm.poss	unknown
+<EN>
+</sen 9>
+
+<sen 10>
+<GD>	CP	Bhiodh	…
+<GLOSS>	CP	be.cond	unknown
+<EN>
+</sen 10>
+
+<sen 11>
+<GD>	MF	Mar	a	chanadh	Seashell	'anns	a'mhix!”	Put	him	in	the	mix	..	..so	..um	…fonaidh	sinn	an	ceartuair	e	..	faicidh	sinn	dè	tha	aige	ri	ràdh
+<GLOSS>	MF	like	q.comp	say.cond	unknown	in	unknown	unknown	unknown	unknown	unknown	det	unknown	so	um	unknown	1p	det	unknown	3sm	unknown	1p	what	be	at.3sm	to	say.vn
+<EN>
+</sen 11>
+
+<sen 12>
+<GD>	CP	'S	docha	nach	bi	e	….	Tha	mise	smaoineachadh	gu	bi	e	ro	thràth.	Bha	thusa	a	'cantail	rium	…gun	…gun	sguirr	e	dhèanamh	dè	?	…
+<GLOSS>	CP	cop	perhaps	q.neg	be.fut	3sm	unknown	be.pres	1s.emph	think.vn	comp	be.fut	3sm	too	unknown	be.pst	2s.emph	q.comp	unknown	to.1s	unknown	unknown	unknown	3sm	do.vn	what	unknown
+<EN>
+</sen 12>
+
+<sen 13>
+<GD>	MF	Oh	aye	…	well	b'abhaist	dha	bhith	'g	obair	aig	..gu	brith	dè	bha	e	dèanamh	nuair	a	bha	e	a'siubhal	…	you	know	dha	na	sgoiltean	…
+<GLOSS>	MF	oh	yes	unknown	well	unknown	to.3sm	be.aux	at	work.vn	at	to	****	what	be.pst	3sm	make.vn	when	q.comp	be.pst	3sm	unknown	unknown	2s	know	to.3sm	det.pl	school.pl	unknown
+<EN>
+</sen 13>
+
+<sen 14>
+<GD>	CP	Aye…na	sgoiltean	?
+<GLOSS>	CP	yes	unknown	school.pl
+<EN>
+</sen 14>
+
+<sen 15>
+<GD>	MF	Seadh
+<GLOSS>	MF	unknown
+<EN>
+</sen 15>
+
+<sen 16>
+<GD>	CP	Ged	tha	e	dèanamh	sin	fhathast
+<GLOSS>	CP	although	be	3sm	make.vn	comp	yet
+<EN>
+</sen 16>
+
+<sen 17>
+<GD>	MF	Chan	eil	–	resign	e	ann	an	August	…
+<GLOSS>	MF	neg	be.dep.pres	unknown	3sm	dem.med	det	unknown	unknown
+<EN>
+</sen 17>
+
+<sen 18>
+<GD>	CP	Oh	really	…?
+<GLOSS>	CP	oh	really	unknown
+<EN>
+</sen 18>
+
+<sen 19>
+<GD>	MF	Uh	huh	..	sgurr	e	thoirreadh	thuirt	e	nach	b'urrainn	dha	bhi	coimhead	as	dèidh	a	mhàthair	agus	…
+<GLOSS>	MF	uh	huh	stop.vn	3sm	take.cond	say.pst	3sm	q.neg	could	to.3sm	be.dep.fut	look.vn	cmpr	behind.dat	q.comp	mother	and	unknown
+<EN>
+</sen 19>
+
+<sen 20>
+<GD>	CP	Tha	sin	ceart	.	Tha	e	air	a	bhith	a	'faighinn	obair	bhon	a	BHBC,	dèanamh	voice-overs
+<GLOSS>	CP	be.pres	comp	right	be.pres	3sm	perf	tran	be.aux	perf	unknown	work	from.the	q.comp	unknown	make.vn	unknown
+<EN>
+</sen 20>
+
+<sen 21>
+<GD>	MF	Thuirt	e	sin	rium	…gu	robh	…	ann	an	October	..	gu	robh	e	dèanamh	…	rudeigin	…	's	docha	dha	neo	tri	obraichean	beaga	bho	pàigheadh	math	gu	leòr	airson	an	seòrsa	obair	…	dhèanainnse	an	seòrsa	obair	sin	cuideachd.
+<GLOSS>	MF	say.pst	3sm	comp	to.1s	unknown	be.dep.pst	unknown	in.3sm	det	unknown	comp	be.dep.pst	3sm	make.vn	unknown	something	unknown	cop	perhaps	to.3sm	or	three	works	small	from	wage.pl	good	adv	enough	for	det	sort	work	unknown	unknown	det	sort	work	comp	also
+<EN>
+</sen 21>
+
+<sen 22>
+<GD>	CP	Tha	fios'am.
+<GLOSS>	CP	be.pres	unknown
+<EN>
+</sen 22>
+
+<sen 23>
+<GD>	MF	Nach	gabhadh	tusa	..?
+<GLOSS>	MF	q.neg	take.cond	2s.emph
+<EN>
+</sen 23>
+
+<sen 24>
+<GD>	CP	Ghabhadh	.	Tha	cuimhne	Kathleen	…	Kathleen	Nic	an	Aonghais	..
+<GLOSS>	CP	take.cond	be	memory	unknown	unknown	unknown	unknown	det	unknown
+<EN>
+</sen 24>
+
+<sen 25>
+<GD>	MF	An	ise	a	bhios	a'seinn	?
+<GLOSS>	MF	det	3sf.emph	q.comp	be.rel	unknown
+<EN>
+</sen 25>
+
+<sen 26>
+<GD>	CP	Bha	ise	ag	innse	…	nach	eil	'ios	agad	mar	a	tha	an	guth	aice	?	Tha	rudeigin	anns	a'ghuth	aice	is	caomh	leamsa	an	rud	a	th'ann,	ach	tha	…tha	..	chan	urrainn	dhi	–	ma	chumas	i	oirre	a'	dol	leis	an	obair	eile	aice	a	bhith	a	'deanamh	cartoons	is	rudan	,	tha	i	a	'dol	a	chall	a	guth.
+<GLOSS>	CP	be.pst	3sf.emph	prog	tell.vn	unknown	q.neg	be.dep	knowledge	at.2s	like	q.comp	be	in	voice	at.3sf	be.pres	something	in	unknown	at.3sf	cop	likeable	with.1s.emph	det	thing	q.comp	unknown	but	be.pres	unknown	neg	able	to.3sf	if	unknown	3sf	on.3sf	det	go.vn	with	det	work	other	at.3sf	q.comp	be.fut	q.comp	unknown	unknown	cop	thing.pl	be.pres	3sf	3sf.poss	go.vn	tran	?	?	voice
+<EN>
+</sen 26>
+
+<sen 27>
+<GD>	MF	Isd	!
+<GLOSS>	MF	hush
+<EN>
+</sen 27>
+
+<sen 28>
+<GD>	CP	Chaillidh	i	guth	….	'se	sin	a	mhìl	a	guth	mar	sin	…	gun	do	dh'fhàg	…ach	sin	….
+<GLOSS>	CP	unknown	3sf	voice	unknown	cop.3sg	comp	tran	unknown	q.comp	voice	like	comp	unknown	comp	pst	leave.pst	unknown	comp	unknown
+<EN>
+</sen 28>
+
+<sen 29>
+<GD>	MF	Bheil	sin	..	bheil	i	'g	obair	…	chan	eil	mise	eòlach	oirre	.	Am	bheil	i	'g	obair	air	an	telly	's	rudan	mar	sin	?
+<GLOSS>	MF	be.dep	comp	be.dep.pres	3sf	at	work.vn	unknown	neg	be.dep.pres	1s.emph	familiar	on.3sf	q	be.dep	3sf	at	work.vn	on	det	television	cop	thing.pl	like	comp
+<EN>
+</sen 29>
+
+<sen 30>
+<GD>	CP	uh	huh	–program	chloinne	,	dèanamh	voice	…	bheil	fhios	agad	cartoon	voices	….	Mumble	….	Do	ghuth	a	chleachdas	thu	ann	an	dòigh	mì-nadarrach	–	bheil	fhios	agad	?	Tha	sin	a'straineadh	do	ghuth	…	a'cuir	strain	air	na	vocal	chords	aice.
+<GLOSS>	CP	uh	huh	unknown	child.gen.pl	make.vn	unknown	unknown	be.dep	knowledge	at.2s	unknown	unknown	unknown	unknown	unknown	to	unknown	q.comp	unknown	2s	in.3sm	det	way	unknown	be.dep	knowledge	at.2s	be	comp	unknown	to	unknown	unknown	unknown	unknown	on	det	unknown	unknown	at.3sf
+<EN>
+</sen 30>
+
+<sen 31>
+<GD>	MF	Am	bi	thusa	a'coimhead	air	na	programs	a	tha	sin	?
+<GLOSS>	MF	det	be.fut	2s.emph	unknown	on	det	unknown	q.comp	be.pres	comp
+<EN>
+</sen 31>
+
+<sen 32>
+<GD>	CP	Cha	bhi.	An	drasda	's	a-rithist	bithidh	mi	ann	an	….	Tha	cuimhne	'am	a	bhith	thall	ann	an	Nairn	aig	Margaret,	Mairead	,	's	bha	mi	a'coimhead	an	television	agus	thàinig	e	air…	cartoons	em..	programs	chloinne	's	a	mhadainn	is	bha	Alec	Valtos	air.	An	guth	aige	–	bha	e	neònach	…..	Blarag	…	bha	sin	Blarag	(?)	…mumble
+<GLOSS>	CP	neg	be.dep.fut	det	unknown	cop	again	be.fut	1s	in.3sm	det	unknown	be.pres	memory	at.1s	tran	be.aux	over	in.3sm	det	unknown	at	unknown	mairead	and	be.pst	1s	unknown	det	unknown	and	come.pst	3sm	on	unknown	unknown	em	unknown	child.gen.pl	cop	q.comp	morning	and	be.pst	unknown	unknown	on	det	voice	at.3sm	be.pst	3sm	unknown	unknown	unknown	unknown	be.pst	comp	unknown	unknown	unknown	unknown
+<EN>
+</sen 32>
+
+<sen 33>
+<GD>	MF	..èisd	rium	–	an	e	màirt	a	th'ann	am	Blarag	?
+<GLOSS>	MF	unknown	to.1s	cop.q	3sm	unknown	q.comp	unknown	det	unknown
+<EN>
+</sen 33>
+
+<sen 34>
+<GD>	CP	Chan	eil'fhios	'am.
+<GLOSS>	CP	neg	unknown	at.1s
+<EN>
+</sen 34>
+
+<sen 35>
+<GD>	MF	Thoirreadh	'se	Blarag	a	tha	air	tè	dhe	na	caoraich	agamsa.
+<GLOSS>	MF	take.cond	cop.3sg.pres	unknown	q.comp	be.pres	on	one.f	of	det.pl	sheep.pl	at.1s.emph
+<EN>
+</sen 35>
+
+<sen 36>
+<GD>	CP	An	e	?	Blarag	…
+<GLOSS>	CP	cop.q	3sm	unknown	unknown
+<EN>
+</sen 36>
+
+<sen 37>
+<GD>	MF	Na	caoraich	bheag	phlastic	..	a	bhios	a'dol	air	an	Internet	..
+<GLOSS>	MF	det	sheep.pl	small	unknown	q.comp	be.rel	unknown	on	det	unknown
+<EN>
+</sen 37>
+
+<sen 38>
+<GD>	CP	An	i	?
+<GLOSS>	CP	det	3sf
+<EN>
+</sen 38>
+
+<sen 39>
+<GD>	MF	Uh	huh
+<GLOSS>	MF	uh	huh
+<EN>
+</sen 39>
+
+<sen 40>
+<GD>	CP	Dè	mar	a	tha	iad	a'dol	air	an	Internet	?
+<GLOSS>	CP	what	like	q.comp	be	3p	unknown	on	det	unknown
+<EN>
+</sen 40>
+
+<sen 41>
+<GD>	MF	Well	bithidh	daoine	a'gabhail	dealbhan	dhiubh	a	h-uile	bliadhna	.
+<GLOSS>	MF	well	be.fut	person.pl	unknown	picture.pl	of.3p	q.comp	every	year
+<EN>
+</sen 41>
+
+<sen 42>
+<GD>	CP	Carson	?
+<GLOSS>	CP	why
+<EN>
+</sen 42>
+
+<sen 43>
+<GD>	MF	Airson	gu	bi	iad	a'suidhe	air	a'bhòrd	agam…
+<GLOSS>	MF	for	comp	be.fut	3p	unknown	on	unknown	at.1s	unknown
+<EN>
+</sen 43>
+
+<sen 44>
+<GD>	CP	Oh	bithidh	!!	bithidh	bithidh	bithidh	!!
+<GLOSS>	CP	oh	be.fut	be.fut	be.fut	be.fut
+<EN>
+</sen 44>
+
+<sen 45>
+<GD>	MF	Fhuair	mi…	am	bliadhna	fhuair	mi	…	well	tha	tri	emails	agam	ann	a	shin	bho	aon	bhoireannach	le	dealbhan	far	an	tug	iad	a-mach	iad.	Chaidh	sinn	a	dh'Ealaghol	.	Bha	sinn	ag	òl	cofaidh	's	..	you	know	..	ag	ithe	cèic	is	stuth	mar	sin	,	agus	chuir	i	mu	…deich	air	fhichead	dealbh	thugam	leis	na	beathaichean	,	anns	an	Talla	Mhòr	,	ag	òl,	suidhe	ann	am	pòcaid	iomadach	duine	timcheall	..	um	…Sabhal	Mhòr.	…ann	an	ad	Denis
+<GLOSS>	MF	get.pst	1s	unknown	det	year	get.pst	1s	unknown	well	be	three	unknown	at.1s	on.3sm	tran	unknown	from	one	woman	with	picture.pl	where	q	give.pst.dep	3p	out	3p	go.pst	1p	to	unknown	be.pst	1p	at	drink.vn	coffee	cop	2s	know	prog	eat.vn	cake	cop	stuff	like	comp	and	put.pst	3sf	about	unknown	on	twenty	picture	to.1s	with	det	animal.pl	in	det	unknown	big	prog	drink.vn	sit.vn	in.3sm	det	unknown	many	person.pl	around	um	unknown	big	unknown	det	hat	unknown
+<EN>
+</sen 45>
+
+<sen 46>
+<GD>	CP	Cò	th'ann	an	Denis	?
+<GLOSS>	CP	who	unknown	det	unknown
+<EN>
+</sen 46>
+
+<sen 47>
+<GD>	MF	The	French	chef	!
+<GLOSS>	MF	det	unknown	unknown
+<EN>
+</sen 47>
+
+<sen 48>
+<GD>	CP	Oh	seadh	seadh
+<GLOSS>	CP	oh	unknown	unknown
+<EN>
+</sen 48>
+
+<sen 49>
+<GD>	MF	Agus	…	a'suidhe	air	feansa	ann	an	Ealaghol	,	agus	fiùis	nuair	a	bha	sinn	aig	a'bhòrd	..you	know	..	em	..
+<GLOSS>	MF	and	unknown	unknown	on	fench	in.3sm	det	unknown	and	unknown	when	q.comp	be.pst	1p	at	unknown	2s	know	em
+<EN>
+</sen 49>
+
+<sen 50>
+<GD>	CP	A'gabhail	cofaidh	?
+<GLOSS>	CP	unknown	coffee
+<EN>
+</sen 50>
+
+<sen 51>
+<GD>	MF	Aye.	Cha	do	mhothaich	mise	fhathast	agus	bha	iad	uile	a-staigh	air	a'gnothach	.	Bha	mise	na	mo	shuidhe	ann	a	shiud	…	you	know	…ciamar	a	chanas	sinn	siùcar	anns	a'Ghàilig	?	etc	etc	,	agus	meanwhile	bha	Lochinvar	…	chuir	cuideigin	Lochinvar	air	cupa	hot	chocolate	neo	rudeigin	agus	ghabadh	iad	dealbh.	Agus	cha	do	mhothaich	mise	fhathast,	ach	feumaidh	gu	robh	fios	aca	uile	air.
+<GLOSS>	MF	yes	neg	pst	unknown	1s.emph	yet	and	be.pst	3p	all	inside	on	unknown	be.pst	1s.emph	than	1s.poss	sit.vn	in.3sm	q.comp	unknown	unknown	2s	know	unknown	q.comp	say.rel	1p	sugar	in.3sm	unknown	etc	etc	and	unknown	be.pst	unknown	unknown	put.pst	somebody	unknown	on	cup	unknown	unknown	or	something	and	unknown	3p	picture	and	neg	pst	unknown	1s.emph	yet	but	must	comp	be.dep.pst	knowledge	at.3p	all	on
+<EN>
+</sen 51>
+
+<sen 52>
+<GD>	CP	uh..
+<GLOSS>	CP	uh
+<EN>
+</sen 52>
+
+<sen 53>
+<GD>	MF	Under	my	nose	…	under	the	teacher's	nose.	Is	nuarsin	an	ath	latha	thug	i	staigh	..
+<GLOSS>	MF	unknown	unknown	unknown	unknown	unknown	det	unknown	unknown	cop	unknown	det	next	day	give.pst	3sf	in
+<EN>
+</sen 53>
+
+<sen 54>
+<GD>	CP	Sporsail	..
+<GLOSS>	CP	unknown
+<EN>
+</sen 54>
+
+<sen 55>
+<GD>	MF	…dhan	a'chlas	iad	…	agus	dè	rinn	sinn	an	dè	?	Well	…
+<GLOSS>	MF	unknown	unknown	3p	unknown	and	what	do.pst	1p	det	what	well	unknown
+<EN>
+</sen 55>
+
+<sen 56>
+<GD>	CP	…	tha	fhios	'am
+<GLOSS>	CP	unknown	be.pres	knowledge	at.1s
+<EN>
+</sen 56>
+
+<sen 57>
+<GD>	MF	…	chuir	i	gu	na	daoine	's	a'chlas	eile	…	seachdain	eile	…	shiorraidh	bha	boireanach	agam	ag	obair	anns	a'Scottish	Executive	..cuideachd	..
+<GLOSS>	MF	unknown	put.pst	3sf	to	det	person.pl	cop	unknown	other	unknown	week	other	unknown	creation.pl	be.pst	woman	at.1s	prog	work.vn	in	unknown	unknown	also
+<EN>
+</sen 57>
+
+<sen 58>
+<GD>	CP	Oh	bha	..
+<GLOSS>	CP	oh	be.pst
+<EN>
+</sen 58>
+
+<sen 59>
+<GD>	MF	Chuir	i	CD	thugam	…	's	docha	seachdain	an	dèidh	dhi	tilleadh	dhachaidh.
+<GLOSS>	MF	put.pst	3sf	unknown	to.1s	unknown	cop	perhaps	week	det	after	to.3sf	return.vn	home
+<EN>
+</sen 59>
+
+<sen 60>
+<GD>	CP	Dè	mu	dheidhinn	?
+<GLOSS>	CP	what	about	around
+<EN>
+</sen 60>
+
+<sen 61>
+<GD>	MF	Leis	na	beathaichean	..
+<GLOSS>	MF	with	det	animal.pl
+<EN>
+</sen 61>
+
+<sen 62>
+<GD>	CP	Oh	aye	..
+<GLOSS>	CP	oh	yes
+<EN>
+</sen 62>
+
+<sen 63>
+<GD>	MF	Well	'se	DVD	…	mumble	….	rud	a'stohpas	tu	dhan	a'chomputer	agus	chi	thu	e.
+<GLOSS>	MF	well	cop.3sg	unknown	unknown	unknown	unknown	thing	unknown	2s	to.the	unknown	and	see.pres	2s	3sm
+<EN>
+</sen 63>
+
+<sen 64>
+<GD>	CP	Chan	eil	mi	ro	mhath	air	a'sin	.
+<GLOSS>	CP	neg	be.dep	1s	too	good	on	unknown
+<EN>
+</sen 64>
+
+<sen 65>
+<GD>	MF	Chan	eil	neo	mise
+<GLOSS>	MF	neg	be.dep.pres	or	1s.emph
+<EN>
+</sen 65>
+
+<sen 66>
+<GD>	CP	Blarag..
+<GLOSS>	CP	unknown
+<EN>
+</sen 66>
+
+<sen 67>
+<GD>	MF	Blarag	…
+<GLOSS>	MF	unknown	unknown
+<EN>
+</sen 67>
+
+<sen 68>
+<GD>	CP	Cò	as	a	fhuair	thu	an	idea	a	tha	sin	?	Cuin	a	thòisich	e	?
+<GLOSS>	CP	who	from	q.comp	get.pst	2s	det	unknown	q.comp	be.pres	comp	when	q.comp	begin.pst	3sm
+<EN>
+</sen 68>
+
+<sen 69>
+<GD>	MF	Well	thòisich	e	…	thòisich	e	anns	an	t-Sabhal	Mhòr	le	Mairead	,	boireannach	Ameriganaich	mòr	àrd	,	agus	bha	clas	agamsa	–	tha	cuimhne'm	glè	mhath.	'Se	level	3	a	bh'ann.	Agus	bha	sinn	ann	an	cell	block	C	,	shìos	a	staidhre	agus	bha	rium	agam	làn.	Bha	an	clas	làn	agus	bha	am	boireannach	a	tha	seo	a'mothachadh	nach	robh	Gàidhlig	gu	leòr	aice	airson	a	bhith	ann	an	level	3.	So	…mumble	dhachaidh	…	I'm	going	home	I'm	going	home	.	No	arsa	mise	–	you're	not	going	home	I'm	going	to	look	after	you.	So	…	thòisich	an	t-seachdain	agus	….	Rud	mu	dheidhinn	a'	bhoireannach	seo,	bheil	fhios	agad	bha	druim	goirt	aice.
+<GLOSS>	MF	well	begin.pst	3sm	unknown	begin.pst	3sm	in	3p.poss	barn	big	with	mairead	woman	unknown	big	tall	and	be.pst	unknown	at.1s.emph	be.pres	memory-(at.)1.s	very	good	cop.3sg	unknown	unknown	q.comp	unknown	and	be.pst	1p	in.3sm	det	unknown	unknown	det.s.f	down	to??	unknown	and	be.pst	to.1s	at.1s	full	be.pst	det	unknown	full	and	be.pst	det	woman	q.comp	be.pres	dem.prox	unknown	q.neg	be.dep.pst	gaelic	to	enough	at.3sf	for	3sm.gen	be.aux	in.3sm	det	unknown	unknown	so	unknown	home	unknown	unknown	unknown	unknown	unknown	unknown	unknown	or	say.pst	is.emph	unknown	pound.pl	unknown	unknown	unknown	unknown	unknown	unknown	unknown	2s	so	unknown	begin.pst	det	unknown	and	unknown	thing	about	around	det	woman	prox	be.dep	knowledge	at.2s	be.pst	back	sore	at.3sf
+<EN>
+</sen 69>
+
+<sen 70>
+<GD>	CP	mhhmm
+<GLOSS>	CP	unknown
+<EN>
+</sen 70>
+
+<sen 71>
+<GD>	MF	Agus	cha	b'urrainn	dhi	suidhe.	So	bha	i	mòr	agus	bha	i	na	seasamh	airson	an	t-seachdain.	Sheall	mi	as	a	dèidh	agus	thug	mi	…	nuair	a	bha	sinn	a'deanamh	rudeigin	–	bhithinn	ga	chuir	sìos	gu	ire	dhise,	agus	aig	deireadh	na	seachdain	bha	i	air	a	dòigh	glan	.	Agus	thill	i	an	ath	bhliadhna	agus	bha	i	anns	a'chlas	agam	agus	nach	deach	i	a	Phortrigh	aon	latha	agus	thug	i	dhachaidh	muc	bheag	ghrànda	na	galla	,	Fearchar	a	thug	mi	air	a'mhuc	thoirreadh	bha	e	cruaidh	am	facal	sin	a	chantainn	dhaibh	..
+<GLOSS>	MF	and	neg	could	to.3sf	sit.vn	so	be.pst	3sf	big	and	be.pst	3sf	comp	stand.vn	for	det	unknown	look.pst	1s	out.of.3sm	q.comp	behind.dat	and	give	1s	unknown	when	q.comp	be.pst	1p	unknown	something	be.cond.1s	prog.3sm.poss	put.pst	down	to	extent	to.3sf.emph	and	at	end	det	week	be.pst	3sf	after	tran	way	clean	and	return.pst	3sf	det	next	year	and	be.pst	3sf	in	unknown	at.1s	and	cop.neg.q	go.dep.pst	3sf	3sf.poss	portree	one	day	and	give	3sf	home	unknown	small	unknown	det	bitch	fergus	q.comp	give.pst	1s	on	unknown	take.cond	be.pst	3sm	hard	det	word	dem.med	q.comp	unknown	to.3p
+<EN>
+</sen 71>
+
+<sen 72>
+<GD>	CP	uhhhhhmmm
+<GLOSS>	CP	unknown
+<EN>
+</sen 72>
+
+<sen 73>
+<GD>	MF	Urqhuart	….	Fearchar	….
+<GLOSS>	MF	unknown	unknown	fergus	unknown
+<EN>
+</sen 73>
+
+<sen 74>
+<GD>	CP	uh	huhmmm
+<GLOSS>	CP	uh	unknown
+<EN>
+</sen 74>
+
+<sen 75>
+<GD>	MF	leis	a	'ch'	…	so	chuir	mise	a'mhuc	a	bha	siud	a	'suidhe	air	a'bhòrd	agus	cha	chanainn	guth	mu	dheidhinn	.	Cha	robh	ainm	air	….well	'se	Fearchar	a	thug	mi	air	ach	…	cha	robh	…..mumble	…	na	shuidhe	air	a'bhòrd	.	Agus	…	oh	shiorraidh	,	thoisich	an	clas	'ud	a'falach	a	'mhuc.	Thiginn	a-staigh	dhan	an	rium	agus	cha	bhiodh	sgeul	air	'bhithinn	a'coimhead	,	's	bhithinn	a'coimhead	is	bhiodh	iad	ga	mo	watchigeadh	a	'coimhead	.	That's	how	it	all	began	you	know	!?	So	nuairsin	-	em	tha	mi	smaoineachadh	gu	robh	Fearchar	leis	fhèin	fad	..	…	bha	boireannach	Fraingeach	a	bhiodh	a'tighinn	,	agus	'se	Fearchar	an	lover	aice	so	bheireadh	i	leatha	e	!
+<GLOSS>	MF	with	q.comp	unknown	unknown	so	put.pst	1s.emph	unknown	q.comp	be.pst	dem.dist	q.comp	unknown	on	unknown	and	neg	say.cond.1s	voice	about	around	neg	be.dep.pst	name	on.3sm	unknown	well	cop.3sg.pres	fergus	q.comp	give.pst	1s	on	but	unknown	neg	be.dep.pst	unknown	unknown	unknown	det	sit.vn	on	unknown	and	unknown	oh	creation.pl	begin.pst	det	unknown	dem.dist	unknown	q.comp	unknown	unknown	inside	to	det	room	and	neg	be.dep.cond	story	on	unknown	unknown	cop	be.cond.1s	unknown	and	be.cond	3p	prog.3sm.poss	1s.poss	unknown	q.comp	look.vn	unknown	unknown	unknown	unknown	unknown	2s	know	so	unknown	parent.pl	em	be.pres	1s	think.vn	comp	be.dep.pst	fergus	with	self	long	unknown	be.pst	woman	frenchman	q.comp	be.cond	unknown	and	cop.3sg	fergus	det	unknown	at.3sf	so	carry.cond	3sf	with.3sf	3sm
+<EN>
+</sen 75>
+
+<sen 76>
+<GD>	CP	A	leannan	!!
+<GLOSS>	CP	q.comp	lover
+<EN>
+</sen 76>
+
+<sen 77>
+<GD>	MF	A	leannan	!
+<GLOSS>	MF	q.comp	lover
+<EN>
+</sen 77>
+
+<sen 78>
+<GD>	CP	An	e	Fearchar	a'mhuc	?	Oh	'se	Fearchar	a'mhuc	!
+<GLOSS>	CP	cop.q	3sm	fergus	unknown	oh	cop.3sg	fergus	unknown
+<EN>
+</sen 78>
+
+<sen 79>
+<GD>	MF	A'mhuc	!
+<GLOSS>	MF	unknown
+<EN>
+</sen 79>
+
+<sen 80>
+<GD>	CP	Bha	leannan	aige	!
+<GLOSS>	CP	be.pst	lover	at.3sm
+<EN>
+</sen 80>
+
+<sen 81>
+<GD>	MF	Bha	leannan	aige	–	am	boireannach	Fraingeach	a	bha	seo	,	Greagach	Fraingeach	.
+<GLOSS>	MF	be.pst	lover	at.3sm	det	woman	frenchman	q.comp	be.pst	dem.prox	unknown	frenchman
+<EN>
+</sen 81>
+
+<sen 82>
+<GD>	CP	Seadh	…	Oh	tha	cuimhne	'm	oirre	..
+<GLOSS>	CP	unknown	unknown	oh	be	memory	at.1s	on.3sf
+<EN>
+</sen 82>
+
+<sen 83>
+<GD>	MF	Eilidh
+<GLOSS>	MF	e.
+<EN>
+</sen 83>
+
+<sen 84>
+<GD>	CP	Eilidh	mh	hm..	bha	i	cho	snog
+<GLOSS>	CP	e.	unknown	unknown	be.pst	3sf	so	nice
+<EN>
+</sen 84>
+
+<sen 85>
+<GD>	MF	So	thigeadh	Eilidh	a-staigh	's	a'mhadainn	“	Oh	..chaidh	mise	's	Fearchar	a-mach.	Chaidh	sinn	a-muigh	airson	dìnnear	àlainn	agus	bha	fìon	dearg	againn	agus	blah	blah	blah.	So	that	was	Fearchar.	Nuairsin	an	ath	bhliadhna	as	dèidh	sin,	thill	Mairead	agus	nach	do	cheannaich	cuideigin	mathan.
+<GLOSS>	MF	so	come.cond	e.	inside	in	unknown	unknown	oh	go.pst	1s.emph	in	fergus	out	go.pst	1p	outside	for	unknown	lovely	and	be.pst	unknown	red	at.1p	and	unknown	unknown	unknown	so	unknown	unknown	fergus	unknown	det	next	year	cmpr	behind.dat	comp	return.pst	mairead	and	cop.neg.q	to	buy.pst	someone	unknown
+<EN>
+</sen 85>
+
+<sen 86>
+<GD>	CP	Oh	seadh.
+<GLOSS>	CP	oh	unknown
+<EN>
+</sen 86>
+
+<sen 87>
+<GD>	MF	leis	a'scarf	,	Archie	a	thug	mi	air.	Bha	Fearchar	agus	Archie	.
+<GLOSS>	MF	with	unknown	unknown	q.comp	give.pst	1s	on	be.pst	fergus	and	unknown
+<EN>
+</sen 87>
+
+<sen 88>
+<GD>	CP	Chan	fhaic	thu	mòran	dhaibhsan	san	Eilean	Sgitheanach	.
+<GLOSS>	CP	neg	see	2s	many	to.3p.emph	in.3sm	island	skye
+<EN>
+</sen 88>
+
+<sen 89>
+<GD>	MF	Oh	chan	fhaic	chan	fhaic	.	So	Nuairsin	thòisich	…	oh	shiorraidh	-	aon	trup	bha	aon	chlas	ann	agus	bha	iad	,	bha	iad	a'cuir	pìos	paipear	fo	na	beathaichean	agus	bha	iad	a'deanamh	còmhradh	,	thiginn	a-staigh	agus	bha	fear	dhiubh	a	'cantail	rudeigin	.	Agus	aon	mhadainn	thàinig	mi	staigh	..agus	..
+<GLOSS>	MF	oh	neg	see	neg	see	so	unknown	begin.pst	unknown	oh	creation.pl	parent.pl	one	unknown	be.pst	one	class	in.3sm	and	be.pst	3p	be.pst	3p	unknown	piece	paper	under	det	animal.pl	and	be.pst	3p	unknown	conversation	unknown	inside	and	be.pst	one.m	of.3p	q.comp	unknown	something	and	one	morning	come.pst	1s	in	and
+<EN>
+</sen 89>
+
+<sen 90>
+<GD>	CP	An	e	iadsan	a	bha	a'cuir	na	pìosan	paipear	ann	?
+<GLOSS>	CP	cop.q	3sm	3p.emph	prt	be.pst	unknown	det	pieces	paper	in.3sm
+<EN>
+</sen 90>
+
+<sen 91>
+<GD>	MF	'S	e	…	no	no	iadsan	..	a	bha	ga	dhèanamh.	So	aon	mhadainn	thàinig	mi	staigh	agus	bha	..bha	iad	na	suidhe	agus	bha	Archie	a'cantail	“Oh	tha	an	t-acras	orm	“	..	bha	sinn	a	'deanamh	I'm	hungry	I'm	thirsty	da	da	da	'tha	an	t-acras	orm	'.	Agus	nuair	a	thill
+<GLOSS>	MF	cop	3sm	unknown	or	or	3p.emph	prt	be.pst	prog.3sm.poss	do.vn	so	one	morning	come.pst	1s	in	and	be.pst	be.pst	3p	det	sit.vn	and	be.pst	unknown	unknown	unknown	be.pres	det	hunger	on.1s	unknown	be.pst	1p	to	unknown	unknown	unknown	unknown	unknown	two	two	two	be.pres	det	hunger	on.1s	q	and	when	q.comp	return.pst
+<EN>
+</sen 91>
+
+<sen 92>
+<GD>	mi	aig	àm	cofaidh,	cha	robh	sgeul	air	Fearchar	ach	bha	bacon	roll	,	feumaidh	gun	tug	iad	as	a	'chidsin	..	a'suidhe	ri	taobh	Archie	agus	rudeigin	sgrìobhte.
+<GLOSS>	1s	at	time	coffee	neg	be.dep.pst	story	on	fergus	but	be.pst	unknown	unknown	must	comp	give.pst	3p	cmpr	q.comp	unknown	unknown	to	side	unknown	and	something	write.va
+<EN>
+</sen 92>
+
+<sen 93>
+<GD>	CP	Seadh.
+<GLOSS>	CP	unknown
+<EN>
+</sen 93>
+
+<sen 94>
+<GD>	MF	'S	nuarsin	bha	drama	mu	dheidhinn	càite	bheil	Fearchar?
+<GLOSS>	MF	cop	unknown	be.pst	unknown	about	around	where	be.dep.pres	fergus
+<EN>
+</sen 94>
+
+<sen 95>
+<GD>	CP	Uh	Huh
+<GLOSS>	CP	uh	huh
+<EN>
+</sen 95>
+
+<sen 96>
+<GD>	MF	Nuarsin	thill	mi	aig	àm	dìnnear	..	agus	nach	robh..	bha	Archie	na	shuidhe	air	a'bhòrd	agus	cha	robh	sgeul	air	a'bhacon	roll	ach	bha	pìosan	beaga	hama	agus	breadcrumbs	air	fhàgail	air	a'bhòrd	,	agus	'mmm	bha	siud	math	,	'se	chòrd	rium	,	bha	an	t-acras	orm'	for	ever	and	ever	you	know	….mumble	…	and	so	it	sort	of	began.
+<GLOSS>	MF	unknown	return.pst	1s	at	time	unknown	and	cop.neg.q	be.dep.pst	be.pst	unknown	det	sit.vn	on	unknown	and	neg	be.dep.pst	story	on	unknown	unknown	but	be.pst	pieces	small	unknown	and	unknown	on	leave.vn	on	unknown	and	unknown	be.pst	dem.dist	good	cop.3sg	like.pst	to.1s	be.pst	det	hunger	unknown	for	unknown	and	unknown	2s	know	unknown	unknown	unknown	and	so	unknown	sort	of	unknown
+<EN>
+</sen 96>
+
+<sen 97>
+<GD>	CP	Oh	bha	siud	feumail	…'se	feum	mòr	a	bha	siud	.
+<GLOSS>	CP	oh	be.pst	dem.dist	unknown	unknown	need	big	q.comp	be.pst	dem.dist
+<EN>
+</sen 97>
+
+<sen 98>
+<GD>	MF	Seadh	,	nuarsin	thòisich	e	…a'	toirt	beathaichean	dhomh	–	'se	Duncan	agus	Mairead	…nuairsin	thug	Mairead	Duncan	a-null.
+<GLOSS>	MF	unknown	unknown	begin.pst	3sm	unknown	give.vn	animal.pl	to.1s	cop.3sg	unknown	and	mairead	unknown	give.pst	mairead	unknown	over
+<EN>
+</sen 98>
+
+<sen 99>
+<GD>	CP	Tha	cuimhne'm	air	esan	a	bhith	thall
+<GLOSS>	CP	be.pres	memory-(at.)1.s	on	3sm.emph	q.comp	be.fut	over
+<EN>
+</sen 99>
+
