@@ -21,8 +21,8 @@ URL= {url link to talk abstract if any}
 ## Prerequisite:
 	I assumed that *python* and *NLTK* are already installed.  
 	
-## Usage
-# Step 1: Replace incorrect apostrophes with "'"
+# Usage
+## Step 1: Replace incorrect apostrophes with "'"
 	In your command line, enter:
 		"python correct_Apostrophe.py FILE_NAME"
 	For example:
@@ -30,7 +30,7 @@ URL= {url link to talk abstract if any}
 	This step will yield a new file called "mod_FILE_NAME"; 
 	For the current example, we will have "mod_Christine_Primrose_Portugal.txt"  
 
-# Step 2: Train the glosser and auto-gloss
+## Step 2: Train the glosser and auto-gloss
 	In your command line, enter:
 		"python auto_gloss.py mod_FILE_NAME"
 	For example:
@@ -38,7 +38,7 @@ URL= {url link to talk abstract if any}
 	This step will yield a new file called "gloss_lines_of_FILE_NAME"; 
 	For the current example, we will have "gloss_lines_of_mod_Christine_Primrose_Portugal.txt"  
 
-# Step 3: Combine the original file and the gloss lines file
+## Step 3: Combine the original file and the gloss lines file
 	In your command line, enter:
 		"python interlinearize.py FILE_NAME gloss_lines_of_FILE_NAME"
 	For example:
