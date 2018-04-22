@@ -1,5 +1,5 @@
-#Scotish Gaelic auto-glosser
-#Yuan-Lu Chen 4/2018. Tucson, Arizona
+#Scotish Gaelic auto-glosser\n
+#Yuan-Lu Chen 4/2018. Tucson, Arizona\n
 #cheny@email.arizona.edu
 #Compatible with python2 and python3
 #assuming utf-8 encoding
