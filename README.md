@@ -24,9 +24,9 @@ URL= {url link to talk abstract if any}
 # Usage
 ## Step 1: Replace incorrect apostrophes with "'"
 	In your command line, enter:
-		"python correct_Apostrophe.py FILE_NAME"
+		```python correct_Apostrophe.py FILE_NAME```
 	For example:
-	 	"python correct_Apostrophe.py Demo_Galic.txt"
+	 	```python correct_Apostrophe.py Demo_Galic.txt```
 	This step will yield a new file called "mod_FILE_NAME"; 
 	For the current example, we will have "mod_Demo_Gaelic.txt"
 
