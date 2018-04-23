@@ -34,18 +34,22 @@ This step will yield a new file called "mod_FILE_NAME";
 For the current example, we will have "mod_Demo_Gaelic.txt"
 
 ## Step 2: Train the glosser and auto-gloss
-	In your command line, enter:
-		"python auto_gloss.py mod_FILE_NAME"
-	For example:
-		"python auto_gloss.py mod_Christine_Primrose_Portugal.txt"
-	This step will yield a new file called "gloss_lines_of_FILE_NAME"; 
-	For the current example, we will have "gloss_lines_of_mod_Christine_Primrose_Portugal.txt"  
+In your command line, enter:
+		```python auto_gloss.py mod_FILE_NAME```
+
+For example:
+		```python auto_gloss.py mod_Demo_Gaelic.txt```
+
+This step will yield a new file called "gloss_lines_of_FILE_NAME"; 
+For the current example, we will have "gloss_lines_of_Gaelic.txt"  
 
 ## Step 3: Combine the original file and the gloss lines file
-	In your command line, enter:
-		"python interlinearize.py FILE_NAME gloss_lines_of_FILE_NAME"
-	For example:
-		"python interlinearize.py mod_Christine_Primrose_Portugal.txt gloss_lines_of_mod_Christine_Primrose_Portugal.txt" 
-	This step will yield a new file called "auto_glossed_FILE_NAME"; 
-	For the current example, we will have "auto_glossed_mod_Christine_Primrose_Portugal.txt"  
+In your command line, enter:
+		```python interlinearize.py FILE_NAME gloss_lines_of_FILE_NAME```
+
+For example:
+		```python interlinearize.py mod_Demo_Gaelic.txt gloss_lines_of_mod_Demo_Gaelic.txt```
+		
+This step will yield a new file called "auto_glossed_FILE_NAME"; 
+For the current example, we will have "auto_glossed_mod_Demo_Gaelic.txt"  
 
