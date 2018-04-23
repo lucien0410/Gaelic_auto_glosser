@@ -7,7 +7,7 @@
 
 ## Citation:
 
-Chen, Yuan-Lu, Andrew Carnie, Michael Hammond, Colleen Patton. (2018). Developing An Auto-Glosser for Scottish Gaelic Using a Corpus of Interlinear Glossed. The 10th Celtic Linguistics Conference. Maynooth, Ireland. September 4–5.
+Chen, Yuan-Lu, Andrew Carnie, Michael Hammond, Colleen Patton. (2018). Developing An Auto-Glosser for Scottish Gaelic Using a Corpus of Interlinear Glossed Texts. The 10th Celtic Linguistics Conference. Maynooth, Ireland. September 4–5.
 
 @unpublished{gaelic_igt,
 title= {Developing An Auto-Glosser for Scottish Gaelic Using a Corpus of Interlinear Glossed Text},
