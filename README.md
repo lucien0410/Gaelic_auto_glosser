@@ -28,7 +28,7 @@ URL= {url link to talk abstract if any}
 	For example:
 	 	"python correct_Apostrophe.py Demo_Galic.txt"
 	This step will yield a new file called "mod_FILE_NAME"; 
-	For the current example, we will have "mod_Christine_Primrose_Portugal.txt"  
+	For the current example, we will have "mod_Demo_Gaelic.txt"
 
 ## Step 2: Train the glosser and auto-gloss
 	In your command line, enter:
